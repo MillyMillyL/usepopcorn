@@ -1,4 +1,4 @@
-import { useState, useEffect, cloneElement } from "react";
+import { useState, useEffect } from "react";
 import Logo from "./components/header/Logo";
 import SearchBox from "./components/header/SearchBox";
 import NumResults from "./components/header/NumResults";
